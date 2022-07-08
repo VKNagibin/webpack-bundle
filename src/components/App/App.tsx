@@ -1,9 +1,9 @@
 import * as React from 'react';
-import Heading from "./Heading";
-import Paragraph from "./Paragraph";
-import Image from "./Image";
-import "./main.scss";
-import Img from '../assets/images/peaceHand.png'
+import Heading from "../Heading/Heading";
+import Paragraph from "../Paragraph/Paragraph";
+import Image from "../Image/Image";
+import "./App.scss";
+import Img from '../../assets/images/peaceHand.png'
 
 export default function App()
 {
